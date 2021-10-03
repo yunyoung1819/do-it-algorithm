@@ -1,6 +1,6 @@
 <table border="0" Cellpadding = "10" Cellspacing = "10">
     <tr>
-        <td rowspan="5"><img src="book1.jpg" alt="Do it! 자료구조와 함께 배우는 알고리즘 입문" height="250" width="200"/></td>
+        <td rowspan="5"><img src="book1.jpeg" alt="Do it! 자료구조와 함께 배우는 알고리즘 입문" height="250" width="200"/></td>
         <td>Do it! 자료구조와 함께 배우는 알고리즘 입문</td>                
     </tr>
     <tr>
